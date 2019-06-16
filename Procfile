@@ -1,1 +1,1 @@
-worker: node hack.js
+worker: node index.js
